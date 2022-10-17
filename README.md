@@ -32,3 +32,6 @@ Various useful tools
 - `xh`
   - Source: https://github.com/ducaale/xh
   - Version: tag `v0.16.1`
+- `zellij`
+  - Source: https://github.com/zellij-org/zellij
+  - Version: tag `v0.31.4`
