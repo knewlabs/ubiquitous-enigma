@@ -29,3 +29,6 @@ Various useful tools
 - `starship`
   - Source: https://github.com/starship/starship
   - Version: tag `v1.11.0`
+- `xh`
+  - Source: https://github.com/ducaale/xh
+  - Version: tag `v0.16.1`
