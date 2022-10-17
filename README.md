@@ -29,6 +29,9 @@ Various useful tools
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: branch `main` commit `a498234f1d81aaa2a9a171b57c1fb7ac8226e9f2`
+- `sp` and `spp`
+  - Source: https://github.com/markbt/streampager
+  - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
 - `starship`
   - Source: https://github.com/starship/starship
   - Version: tag `v1.11.0`
