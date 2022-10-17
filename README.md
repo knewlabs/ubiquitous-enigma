@@ -4,7 +4,7 @@ Various useful tools
 
 ## Linux
 
-- Statically compiled using musl libc
+- Statically linked using musl libc
 - Stripped
 - Rust version: `1.64.0` (stable)
 - OpenSSL version: `1.1.1q`
@@ -29,6 +29,9 @@ Various useful tools
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: branch `main` commit `a498234f1d81aaa2a9a171b57c1fb7ac8226e9f2`
+- `portal`
+  - Source: https://github.com/landhb/portal
+  - Version: branch `master` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
   - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
