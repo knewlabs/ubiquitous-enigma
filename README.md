@@ -17,6 +17,9 @@ Various useful tools
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
   - Version: branch `master` commit `57c69460d0263415640e500e613ccefb9a3abc1a`
-  `dog`
+- `dog`
   - Source: https://github.com/ogham/dog
   - Version: branch `master` commit `721440b12ef01a812abe5dc6ced69af6e221fad5`
+- `hx`
+  - Source: https://github.com/helix-editor/helix
+  - Version: tag `22.08.1`
