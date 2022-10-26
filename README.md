@@ -32,6 +32,9 @@ Various useful tools
 - `portal`
   - Source: https://github.com/landhb/portal
   - Version: branch `master` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
+- `procs`
+  - Source: https://github.com/dalance/procs
+  - Version: branch `master` commit `91b25e0f9376e7f825634b82c38ea4aeda9247b7`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
   - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
