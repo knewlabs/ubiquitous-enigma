@@ -20,6 +20,9 @@ Various useful tools
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
   - Version: branch `master` commit `b879c36588cd45ae382e152804e9421a5e8b9dd6`
+- `delta`
+  - Source: https://github.com/dandavison/delta
+  - Version: branch `master` commit `970000f36886bdab908d1037dbc1148abde52d5e`
 - `dog`
   - Source: https://github.com/ogham/dog
   - Version: branch `master` commit `721440b12ef01a812abe5dc6ced69af6e221fad5`
