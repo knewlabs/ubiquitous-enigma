@@ -35,7 +35,7 @@ Various useful tools
   - Version: tag `22.08.1`
 - `nu`
   - Source: https://github.com/nushell/nushell
-  - Version: branch `main` commit `a498234f1d81aaa2a9a171b57c1fb7ac8226e9f2`
+  - Version: branch `main` commit `59332562bbf389335d29d31f5af5fc42db9dc0c8`
 - `portal`
   - Source: https://github.com/landhb/portal
   - Version: branch `master` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
