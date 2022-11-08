@@ -53,4 +53,4 @@ Various useful tools
   - Version: tag `v0.16.1`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
-  - Version: tag `v0.31.4`
+  - Version: tag `v0.32.0`
