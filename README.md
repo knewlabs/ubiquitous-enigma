@@ -23,7 +23,7 @@ Various useful tools
   - Version: branch `master` commit `5f849e81e68c4df9143e834d976ef73776682eed`
 - `delta`
   - Source: https://github.com/dandavison/delta
-  - Version: branch `master` commit `970000f36886bdab908d1037dbc1148abde52d5e`
+  - Version: branch `master` commit `5ce2efbc6b7355a6e3da7b3b2c85d6deaa0d0d46`
 - `dog`
   - Source: https://github.com/ogham/dog
   - Version: branch `master` commit `721440b12ef01a812abe5dc6ced69af6e221fad5`
