@@ -41,7 +41,7 @@ Various useful tools
   - Version: branch `master` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
 - `procs`
   - Source: https://github.com/dalance/procs
-  - Version: branch `master` commit `91b25e0f9376e7f825634b82c38ea4aeda9247b7`
+  - Version: branch `master` commit `9d6a9f27a8b2a810c1f620c215dc2262cf38ddbb`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
   - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
