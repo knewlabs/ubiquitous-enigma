@@ -42,6 +42,9 @@ Various useful tools
 - `procs`
   - Source: https://github.com/dalance/procs
   - Version: branch `master` commit `9d6a9f27a8b2a810c1f620c215dc2262cf38ddbb`
+- `signify`
+  - Source: https://github.com/badboy/signify-rs
+  - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
   - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
