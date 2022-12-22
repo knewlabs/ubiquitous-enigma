@@ -6,7 +6,7 @@ Various useful tools
 
 - Statically linked using musl libc
 - Stripped
-- Rust version: `1.65.0` (stable)
+- Rust version: `1.66.0` (stable)
 - Clang version: `12.0.1`
 - OpenSSL version: `1.1.1s`
 
@@ -14,7 +14,7 @@ Various useful tools
 
 - `b3sum`
   - Source: https://github.com/BLAKE3-team/BLAKE3
-  - Version: tag `1.3.1`
+  - Version: tag `1.3.3`
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
   - Version: branch `master` commit `57c69460d0263415640e500e613ccefb9a3abc1a`
