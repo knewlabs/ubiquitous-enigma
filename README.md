@@ -32,7 +32,7 @@ Various useful tools
   - Version: tag `v0.4.0`
 - `hx`
   - Source: https://github.com/helix-editor/helix
-  - Version: tag `22.08.1`
+  - Version: tag `22.12`
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: branch `main` commit `59332562bbf389335d29d31f5af5fc42db9dc0c8`
