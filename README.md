@@ -50,7 +50,7 @@ Various useful tools
   - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
 - `starship`
   - Source: https://github.com/starship/starship
-  - Version: tag `v1.11.0`
+  - Version: tag `v1.12.0`
 - `xh`
   - Source: https://github.com/ducaale/xh
   - Version: tag `v0.16.1`
