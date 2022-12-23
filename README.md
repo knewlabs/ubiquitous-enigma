@@ -53,7 +53,7 @@ Various useful tools
   - Version: tag `v1.12.0`
 - `xh`
   - Source: https://github.com/ducaale/xh
-  - Version: tag `v0.16.1`
+  - Version: tag `v0.17.0`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
   - Version: tag `v0.32.0`
