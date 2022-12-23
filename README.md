@@ -38,7 +38,7 @@ Various useful tools
   - Version: tag `0.73.0`
 - `portal`
   - Source: https://github.com/landhb/portal
-  - Version: branch `master` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
+  - Version: branch `main` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
 - `procs`
   - Source: https://github.com/dalance/procs
   - Version: branch `master` commit `9d6a9f27a8b2a810c1f620c215dc2262cf38ddbb`
