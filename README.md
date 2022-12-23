@@ -41,7 +41,7 @@ Various useful tools
   - Version: branch `main` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
 - `procs`
   - Source: https://github.com/dalance/procs
-  - Version: branch `master` commit `9d6a9f27a8b2a810c1f620c215dc2262cf38ddbb`
+  - Version: branch `master` commit `b02d791caf1aa38b8b0553c52a046708b96c0f92`
 - `signify`
   - Source: https://github.com/badboy/signify-rs
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
