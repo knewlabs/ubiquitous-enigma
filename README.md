@@ -39,6 +39,9 @@ Various useful tools
 - `hx`
   - Source: https://github.com/helix-editor/helix
   - Version: tag `22.12`
+- `hx-hex`
+  - Source: https://github.com/sitkevij/hex
+  - Version: branch `master` commit `21b2304a1f8ba43e9fbafd4881ac61d39ad49042`
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: tag `0.73.0`
