@@ -15,6 +15,9 @@ Various useful tools
 - `b3sum`
   - Source: https://github.com/BLAKE3-team/BLAKE3
   - Version: tag `1.3.3`
+- `bat`
+  - Source: https://github.com/sharkdp/bat
+  - Version: tag `v0.22.1`
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
   - Version: branch `master` commit `5d4dac2e393f555654e3358af434476f1bbffcdd`
