@@ -30,6 +30,9 @@ Various useful tools
 - `dog`
   - Source: https://github.com/ogham/dog
   - Version: branch `master` commit `721440b12ef01a812abe5dc6ced69af6e221fad5`
+- `horust`
+  - Source: https://github.com/FedericoPonzi/horust
+  - Version: branch `master` commit `07b5a02b3c9b0a448c0099fbf0b6e145a8734235`
 - `htmlq`
   - Source: https://github.com/mgdm/htmlq
   - Version: tag `v0.4.0`
