@@ -60,6 +60,9 @@ Various useful tools
 - `starship`
   - Source: https://github.com/starship/starship
   - Version: tag `v1.12.0`
+- `topgrade`
+  - Source: https://github.com/topgrade-rs/topgrade
+  - Version: tag `v10.2.4`
 - `xh`
   - Source: https://github.com/ducaale/xh
   - Version: tag `v0.17.0`
