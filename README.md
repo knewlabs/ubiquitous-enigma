@@ -24,6 +24,9 @@ Various useful tools
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
   - Version: branch `master` commit `d8da12ffabf849d4080370f3cf00d376a0a71ab9`
+- `comtrya`
+  - Source: https://github.com/comtrya/comtrya
+  - Version: tag `v0.8.1`
 - `delta`
   - Source: https://github.com/dandavison/delta
   - Version: branch `master` commit `5cef3872999f1084cb13013b002a6421c4aa3f15`
