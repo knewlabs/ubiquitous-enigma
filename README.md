@@ -48,6 +48,9 @@ Various useful tools
 - `ion`
   - Source: https://gitlab.redox-os.org/redox-os/ion
   - Version: branch `master` commit `3bb8966fc99ba223033e1e02b0a6d50fc25cbef4`
+- `lemmeknow`
+  - Source: https://github.com/swanandx/lemmeknow
+  - Version: branch `main` commit `4e17a2e92d14bd312c34c6c8be8add670715519d`
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: tag `0.73.0`
