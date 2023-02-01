@@ -6,8 +6,8 @@ Various useful tools
 
 - Statically linked using musl libc
 - Stripped
-- Rust version: `1.66.0` (stable)
-- Clang version: `12.0.1`
+- Rust version: `1.67.0` (stable)
+- Clang version: `15.0.7`
 - OpenSSL version: `1.1.1s`
 
 ## Tool List
@@ -23,7 +23,7 @@ Various useful tools
   - Version: branch `master` commit `5d4dac2e393f555654e3358af434476f1bbffcdd`
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
-  - Version: branch `master` commit `d8da12ffabf849d4080370f3cf00d376a0a71ab9`
+  - Version: tag `0.8.0`
 - `comtrya`
   - Source: https://github.com/comtrya/comtrya
   - Version: tag `v0.8.1`
