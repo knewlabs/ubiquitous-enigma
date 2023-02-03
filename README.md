@@ -8,6 +8,7 @@ Various useful tools
 - Stripped
 - Rust version: `1.67.0` (stable)
 - Clang version: `15.0.7`
+- GCC version: `12.2.1`
 - OpenSSL version: `1.1.1s`
 
 ## Tool List
@@ -69,6 +70,9 @@ Various useful tools
 - `procs`
   - Source: https://github.com/dalance/procs
   - Version: branch `master` commit `b02d791caf1aa38b8b0553c52a046708b96c0f92`
+- `rg`
+  - Source: https://github.com/BurntSushi/ripgrep
+  - Version: branch `master` commit `fe97c0a152cabc1bc07ec36b4b1e27cd230c3014`
 - `signify`
   - Source: https://github.com/badboy/signify-rs
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
