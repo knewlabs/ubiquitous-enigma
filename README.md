@@ -66,7 +66,7 @@ Various useful tools
   - Version: branch `main` commit `140c042fe67650af05d2cd02570c2509b4959e96`
 - `nu`
   - Source: https://github.com/nushell/nushell
-  - Version: tag `0.73.0`
+  - Version: tag `0.75.0`
 - `portal`
   - Source: https://github.com/landhb/portal
   - Version: branch `main` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
