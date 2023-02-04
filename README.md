@@ -58,6 +58,9 @@ Various useful tools
 - `lemmeknow`
   - Source: https://github.com/swanandx/lemmeknow
   - Version: branch `main` commit `4e17a2e92d14bd312c34c6c8be8add670715519d`
+- `monolith`
+  - Source: https://github.com/Y2Z/monolith
+  - Version: tag `v2.7.0`
 - `nsh`
   - Source: https://github.com/nuta/nsh
   - Version: branch `main` commit `140c042fe67650af05d2cd02570c2509b4959e96`
