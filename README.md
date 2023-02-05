@@ -72,7 +72,7 @@ Various useful tools
   - Version: branch `main` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
 - `procs`
   - Source: https://github.com/dalance/procs
-  - Version: branch `master` commit `b02d791caf1aa38b8b0553c52a046708b96c0f92`
+  - Version: tag `v0.13.4`
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master` commit `fe97c0a152cabc1bc07ec36b4b1e27cd230c3014`
