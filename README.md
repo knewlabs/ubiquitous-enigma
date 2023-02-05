@@ -87,7 +87,7 @@ Various useful tools
   - Version: tag `v1.12.0`
 - `topgrade`
   - Source: https://github.com/topgrade-rs/topgrade
-  - Version: tag `v10.2.4`
+  - Version: tag `v10.3.1`
 - `xh`
   - Source: https://github.com/ducaale/xh
   - Version: tag `v0.17.0`
