@@ -27,7 +27,7 @@ Various useful tools
   - Version: tag `0.8.0`
 - `comtrya`
   - Source: https://github.com/comtrya/comtrya
-  - Version: tag `v0.8.1`
+  - Version: tag `v0.8.3`
 - `delta`
   - Source: https://github.com/dandavison/delta
   - Version: branch `master` commit `ce6448f9c3e8e61d06127c62ee775f9372bc1c34`
