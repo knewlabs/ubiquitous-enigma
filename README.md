@@ -25,6 +25,9 @@ Various useful tools
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
   - Version: tag `0.8.0`
+- `cicada`
+  - Source: https://github.com/mitnk/cicada
+  - Version: tag `v0.9.35`
 - `comtrya`
   - Source: https://github.com/comtrya/comtrya
   - Version: tag `v0.8.3`
