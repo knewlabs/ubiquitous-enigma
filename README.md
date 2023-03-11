@@ -21,7 +21,7 @@ Various useful tools
   - Version: tag `v0.22.1`
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
-  - Version: branch `master` commit `5d4dac2e393f555654e3358af434476f1bbffcdd`
+  - Version: branch `master` commit `be08af94a76135df209bbbb93492a6bc1e1f769f`
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
   - Version: tag `0.8.0`
