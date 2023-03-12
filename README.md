@@ -99,4 +99,4 @@ Various useful tools
   - Version: branch `main` commit `afc7240874af7013192f72b3a8725f1e85158e5d`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
-  - Version: tag `v0.34.4`
+  - Version: tag `v0.35.2`
