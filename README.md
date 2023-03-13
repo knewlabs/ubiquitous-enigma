@@ -96,7 +96,7 @@ Various useful tools
   - Version: tag `v0.18.0`
 - `youki`
   - Source: https://github.com/containers/youki
-  - Version: branch `main` commit `afc7240874af7013192f72b3a8725f1e85158e5d`
+  - Version: branch `main` commit `29babe7d0ecaf0cb2496b31f37ea1ebe868a1419`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
   - Version: tag `v0.35.2`
