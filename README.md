@@ -33,7 +33,7 @@ Various useful tools
   - Version: tag `v0.8.3`
 - `delta`
   - Source: https://github.com/dandavison/delta
-  - Version: branch `master` commit `ce6448f9c3e8e61d06127c62ee775f9372bc1c34`
+  - Version: branch `master` commit `4058ce12ea7fb26f21bee4f1541a06c6b63a88a9`
 - `dog`
   - Source: https://github.com/ogham/dog
   - Version: branch `master` commit `721440b12ef01a812abe5dc6ced69af6e221fad5`
