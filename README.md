@@ -93,7 +93,7 @@ Various useful tools
   - Version: tag `v10.3.1`
 - `xh`
   - Source: https://github.com/ducaale/xh
-  - Version: tag `v0.17.0`
+  - Version: tag `v0.18.0`
 - `youki`
   - Source: https://github.com/containers/youki
   - Version: branch `main` commit `afc7240874af7013192f72b3a8725f1e85158e5d`
