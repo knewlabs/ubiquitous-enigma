@@ -71,6 +71,10 @@ Various useful tools
 - `lemmeknow`
   - Source: https://github.com/swanandx/lemmeknow
   - Version: branch `main` commit `4e17a2e92d14bd312c34c6c8be8add670715519d`
+- `lsd`
+  - Source: https://github.com/lsd-rs/lsd
+  - Version: branch `master`
+  - Commit: `0e3f97b8171ed521d5f84bad773d9aa04ce06ad3`
 - `monolith`
   - Source: https://github.com/Y2Z/monolith
   - Version: tag `v2.7.0`
