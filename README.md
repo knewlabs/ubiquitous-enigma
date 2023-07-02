@@ -57,7 +57,8 @@ Various useful tools
   - Commit: `6e31bc814332b2521f0316d0ed9bf0a1c521b6e6`
 - `hx`
   - Source: https://github.com/helix-editor/helix
-  - Version: tag `22.12`
+  - Version: tag `23.05`
+  - Commit: `3cf037237f1d080fdcb7990250955701389ae072`
 - `hx-hex`
   - Source: https://github.com/sitkevij/hex
   - Version: branch `master`
