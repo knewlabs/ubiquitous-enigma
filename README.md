@@ -15,7 +15,8 @@ Various useful tools
 
 - `b3sum`
   - Source: https://github.com/BLAKE3-team/BLAKE3
-  - Version: tag `1.3.3`
+  - Version: tag `1.4.0`
+  - Commit: `65733a753b91f560293b6f9689e1dc55c2c923b9`
 - `bat`
   - Source: https://github.com/sharkdp/bat
   - Version: tag `v0.22.1`
