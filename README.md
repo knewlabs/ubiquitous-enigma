@@ -90,7 +90,8 @@ Various useful tools
   - Version: tag `v0.13.4`
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
-  - Version: branch `master` commit `fe97c0a152cabc1bc07ec36b4b1e27cd230c3014`
+  - Version: branch `master`
+  - Commit: `a7f1276021df2217dead1481b2c2b38595ed8fb3`
 - `signify`
   - Source: https://github.com/badboy/signify-rs
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
