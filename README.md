@@ -103,6 +103,10 @@ Various useful tools
 - `signify`
   - Source: https://github.com/badboy/signify-rs
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
+- `sozu`
+  - Source: https://github.com/sozu-proxy/sozu
+  - Version: branch `main`
+  - Commit: `33abd287cad233547cf83551623c24cd30c301b9`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
   - Version: branch `master`
