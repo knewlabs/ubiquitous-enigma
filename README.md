@@ -112,7 +112,8 @@ Various useful tools
   - Commit: `a24ff585ee4884bb79a2c78b46e19c29e1b93613`
 - `youki`
   - Source: https://github.com/containers/youki
-  - Version: branch `main` commit `29babe7d0ecaf0cb2496b31f37ea1ebe868a1419`
+  - Version: tag `v0.1.0`
+  - Commit: `4dc30bf7c02be584eddfc182d4e96b7cbbb3474c`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
   - Version: tag `v0.35.2`
