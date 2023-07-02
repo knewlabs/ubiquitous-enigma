@@ -53,7 +53,8 @@ Various useful tools
   - Commit: `a97b40d229bb7684a9c54b0992e26f78350c9f4f`
 - `htmlq`
   - Source: https://github.com/mgdm/htmlq
-  - Version: tag `v0.4.0`
+  - Version: branch `master`
+  - Commit: `6e31bc814332b2521f0316d0ed9bf0a1c521b6e6`
 - `hx`
   - Source: https://github.com/helix-editor/helix
   - Version: tag `22.12`
