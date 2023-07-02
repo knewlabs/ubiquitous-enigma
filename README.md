@@ -19,7 +19,8 @@ Various useful tools
   - Commit: `65733a753b91f560293b6f9689e1dc55c2c923b9`
 - `bat`
   - Source: https://github.com/sharkdp/bat
-  - Version: tag `v0.22.1`
+  - Version: tag `v0.23.0`
+  - Commit: `871abd27aa91264e01539da849add0330b24cb9c`
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
   - Version: branch `master` commit `be08af94a76135df209bbbb93492a6bc1e1f769f`
