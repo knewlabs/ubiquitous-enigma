@@ -96,6 +96,10 @@ Various useful tools
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master`
   - Commit: `a7f1276021df2217dead1481b2c2b38595ed8fb3`
+- `rsign`
+  - Source: https://github.com/jedisct1/rsign2
+  - Version: branch `master`
+  - Commit: `bd5c3f2c1077034f96333da2c6cfe84a588a0029`
 - `signify`
   - Source: https://github.com/badboy/signify-rs
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
