@@ -97,7 +97,8 @@ Various useful tools
   - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
 - `sp` and `spp`
   - Source: https://github.com/markbt/streampager
-  - Version: branch `master` commit `3c558526ce047e50530c2d89ca19b25f8424b4ab`
+  - Version: branch `master`
+  - Commit: `3c558526ce047e50530c2d89ca19b25f8424b4ab`
 - `starship`
   - Source: https://github.com/starship/starship
   - Version: tag `v1.13.1`
