@@ -6,10 +6,10 @@ Various useful tools
 
 - Statically linked using musl libc
 - Stripped
-- Rust version: `1.68.0` (stable)
-- Clang version: `15.0.7`
-- GCC version: `12.2.1`
-- OpenSSL version: `1.1.1t`
+- Rust version: `1.70.0` (stable)
+- Clang version: `16.0.6`
+- GCC version: `13.1.1`
+- OpenSSL version: `3.1.1`
 
 ## Tool List
 
