@@ -60,7 +60,8 @@ Various useful tools
   - Version: tag `22.12`
 - `hx-hex`
   - Source: https://github.com/sitkevij/hex
-  - Version: branch `master` commit `21b2304a1f8ba43e9fbafd4881ac61d39ad49042`
+  - Version: branch `master`
+  - Commit: `21b2304a1f8ba43e9fbafd4881ac61d39ad49042`
 - `ion`
   - Source: https://gitlab.redox-os.org/redox-os/ion
   - Version: branch `master` commit `3bb8966fc99ba223033e1e02b0a6d50fc25cbef4`
