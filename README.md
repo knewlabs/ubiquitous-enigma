@@ -49,7 +49,8 @@ Various useful tools
   - Commit: `c697d066702ab81ce0684fedb4c638e0fc0473e8`
 - `horust`
   - Source: https://github.com/FedericoPonzi/horust
-  - Version: branch `master` commit `07b5a02b3c9b0a448c0099fbf0b6e145a8734235`
+  - Version: tag `v0.1.7`
+  - Commit: `a97b40d229bb7684a9c54b0992e26f78350c9f4f`
 - `htmlq`
   - Source: https://github.com/mgdm/htmlq
   - Version: tag `v0.4.0`
