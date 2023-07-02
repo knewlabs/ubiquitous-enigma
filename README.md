@@ -26,7 +26,8 @@ Various useful tools
   - Version: branch `master` commit `be08af94a76135df209bbbb93492a6bc1e1f769f`
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
-  - Version: tag `0.8.0`
+  - Version: tag `0.9.3`
+  - Commit: `590b15a51049668e064feb6c97586c0f73d468e4`
 - `cicada`
   - Source: https://github.com/mitnk/cicada
   - Version: tag `v0.9.36`
