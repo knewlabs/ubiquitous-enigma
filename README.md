@@ -101,7 +101,8 @@ Various useful tools
   - Commit: `3c558526ce047e50530c2d89ca19b25f8424b4ab`
 - `starship`
   - Source: https://github.com/starship/starship
-  - Version: tag `v1.13.1`
+  - Version: tag `v1.15.0`
+  - Commit: `3591db41c1f899b5ff657312d8f848531fcbe751`
 - `topgrade`
   - Source: https://github.com/topgrade-rs/topgrade
   - Version: tag `v10.3.3`
