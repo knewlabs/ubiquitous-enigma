@@ -116,4 +116,5 @@ Various useful tools
   - Commit: `4dc30bf7c02be584eddfc182d4e96b7cbbb3474c`
 - `zellij`
   - Source: https://github.com/zellij-org/zellij
-  - Version: tag `v0.35.2`
+  - Version: tag `v0.37.2`
+  - Commit: `fda5923d64dc1388f063e78d9087c236d38555ff`
