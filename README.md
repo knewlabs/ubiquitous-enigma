@@ -45,7 +45,8 @@ Various useful tools
   - Commit: `721440b12ef01a812abe5dc6ced69af6e221fad5`
 - `exa`
   - Source: https://github.com/ogham/exa
-  - Version: branch `master` commit `c697d066702ab81ce0684fedb4c638e0fc0473e8`
+  - Version: branch `master`
+  - Commit: `c697d066702ab81ce0684fedb4c638e0fc0473e8`
 - `horust`
   - Source: https://github.com/FedericoPonzi/horust
   - Version: branch `master` commit `07b5a02b3c9b0a448c0099fbf0b6e145a8734235`
