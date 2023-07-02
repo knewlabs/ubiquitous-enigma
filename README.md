@@ -74,6 +74,7 @@ Various useful tools
 - `monolith`
   - Source: https://github.com/Y2Z/monolith
   - Version: tag `v2.7.0`
+  - Commit: `1c71e708e1e343ac2bace250e698966abbba1568`
 - `nsh`
   - Source: https://github.com/nuta/nsh
   - Version: branch `main` commit `140c042fe67650af05d2cd02570c2509b4959e96`
