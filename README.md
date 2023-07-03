@@ -32,6 +32,7 @@ Various useful tools
 - `cicada`
   - Source: https://github.com/mitnk/cicada
   - Version: tag `v0.9.36`
+  - Commit: `9151630cb1826ab38e77806eb4c0dd9e9ef46c33`
 - `comtrya`
   - Source: https://github.com/comtrya/comtrya
   - Version: tag `v0.8.3`
