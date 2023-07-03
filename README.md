@@ -95,7 +95,8 @@ Various useful tools
   - Commit: `5c81bcef1a3c1667468c81ef8c06cf56a0962133`
 - `portal`
   - Source: https://github.com/landhb/portal
-  - Version: branch `main` commit `c7de8fa9b388b982afabc4777ad7c1a10617be10`
+  - Version: branch `main`
+  - Commit: `df4266c3a5d3bc65c4460078108b2accaa5691a5`
 - `procs`
   - Source: https://github.com/dalance/procs
   - Version: tag `v0.13.4`
