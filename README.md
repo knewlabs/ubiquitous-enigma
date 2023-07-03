@@ -87,7 +87,8 @@ Various useful tools
   - Commit: `1c71e708e1e343ac2bace250e698966abbba1568`
 - `nsh`
   - Source: https://github.com/nuta/nsh
-  - Version: branch `main` commit `140c042fe67650af05d2cd02570c2509b4959e96`
+  - Version: branch `main`
+  - Commit: `bdd07024661dfa503b248ae46c363783d12fbad1`
 - `nu`
   - Source: https://github.com/nushell/nushell
   - Version: tag `0.81.0`
