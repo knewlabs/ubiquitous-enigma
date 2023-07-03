@@ -67,7 +67,8 @@ Various useful tools
   - Commit: `21b2304a1f8ba43e9fbafd4881ac61d39ad49042`
 - `ion`
   - Source: https://gitlab.redox-os.org/redox-os/ion
-  - Version: branch `master` commit `3bb8966fc99ba223033e1e02b0a6d50fc25cbef4`
+  - Version: branch `master`
+  - Commit: `60bfb73351f0412c95b8ba2afe75e988514470a6`
 - `jql`
   - Source: https://github.com/yamafaktory/jql
   - Version: tag `v5.1.6`
