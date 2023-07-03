@@ -71,7 +71,8 @@ Various useful tools
   - Commit: `60bfb73351f0412c95b8ba2afe75e988514470a6`
 - `jql`
   - Source: https://github.com/yamafaktory/jql
-  - Version: tag `v5.1.6`
+  - Version: tag `jql-v7.0.0`
+  - Commit: `fdaf7e17ac9e1add3bd7db5b704656946e17e679`
 - `lemmeknow`
   - Source: https://github.com/swanandx/lemmeknow
   - Version: branch `main` commit `4e17a2e92d14bd312c34c6c8be8add670715519d`
