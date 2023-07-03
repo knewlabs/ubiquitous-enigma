@@ -109,7 +109,8 @@ Various useful tools
   - Commit: `bd5c3f2c1077034f96333da2c6cfe84a588a0029`
 - `signify`
   - Source: https://github.com/badboy/signify-rs
-  - Version: branch `main` commit `3c132f048341f5593e03459c6fbdc2e7a1a48737`
+  - Version: branch `main`
+  - Commit: `3c132f048341f5593e03459c6fbdc2e7a1a48737`
 - `sozu`
   - Source: https://github.com/sozu-proxy/sozu
   - Version: branch `main`
