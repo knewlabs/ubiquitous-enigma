@@ -99,7 +99,8 @@ Various useful tools
   - Commit: `df4266c3a5d3bc65c4460078108b2accaa5691a5`
 - `procs`
   - Source: https://github.com/dalance/procs
-  - Version: tag `v0.13.4`
+  - Version: tag `v0.14.0`
+  - Commit: `915d891c28904bee698b0fc7c1a750cac0bebb7b`
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master`
