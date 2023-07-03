@@ -35,7 +35,8 @@ Various useful tools
   - Commit: `9151630cb1826ab38e77806eb4c0dd9e9ef46c33`
 - `comtrya`
   - Source: https://github.com/comtrya/comtrya
-  - Version: tag `v0.8.3`
+  - Version: tag `v0.8.5`
+  - Commit: `4c31a96e8d978e6a29f81ac5dde578626a4a149b`
 - `delta`
   - Source: https://github.com/dandavison/delta
   - Version: tag `0.16.5`
