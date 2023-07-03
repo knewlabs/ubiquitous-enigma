@@ -75,7 +75,8 @@ Various useful tools
   - Commit: `fdaf7e17ac9e1add3bd7db5b704656946e17e679`
 - `lemmeknow`
   - Source: https://github.com/swanandx/lemmeknow
-  - Version: branch `main` commit `4e17a2e92d14bd312c34c6c8be8add670715519d`
+  - Version: branch `main`
+  - Commit: `9518212a0dc71b6bb01243074502ce60be96d353`
 - `lsd`
   - Source: https://github.com/lsd-rs/lsd
   - Version: branch `master`
