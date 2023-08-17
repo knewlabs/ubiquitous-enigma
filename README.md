@@ -23,8 +23,8 @@ Various useful tools
   - Commit: `871abd27aa91264e01539da849add0330b24cb9c`
 - `boringtun`
   - Source: https://github.com/cloudflare/boringtun
-  - Version: branch `master`
-  - Commit: `878385f171d60effac4ad1a9d4dee41e777528b8`
+  - Version: branch `releases/0.5.x`
+  - Commit: `9c5a7ac343c0b4a1b0c2b7bbd4cc3cb1c20e6c98`
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
   - Version: tag `0.9.4`
