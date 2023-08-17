@@ -27,8 +27,8 @@ Various useful tools
   - Commit: `878385f171d60effac4ad1a9d4dee41e777528b8`
 - `btm`
   - Source: https://github.com/ClementTsang/bottom
-  - Version: tag `0.9.3`
-  - Commit: `590b15a51049668e064feb6c97586c0f73d468e4`
+  - Version: tag `0.9.4`
+  - Commit: `07b7caa5fa4080f91af8a448f28456fb95f36722`
 - `cicada`
   - Source: https://github.com/mitnk/cicada
   - Version: tag `v0.9.36`
