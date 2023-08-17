@@ -123,8 +123,8 @@ Various useful tools
   - Commit: `3c558526ce047e50530c2d89ca19b25f8424b4ab`
 - `starship`
   - Source: https://github.com/starship/starship
-  - Version: tag `v1.15.0`
-  - Commit: `3591db41c1f899b5ff657312d8f848531fcbe751`
+  - Version: tag `v1.16.0`
+  - Commit: `dcf7b7646c4610947765d76cf4e024a60576b2cd`
 - `topgrade`
   - Source: https://github.com/topgrade-rs/topgrade
   - Version: tag `v12.0.0`
