@@ -9,10 +9,15 @@ Various useful tools
 - Rust version: `1.71.1` (stable)
 - Clang version: `16.0.6`
 - GCC version: `13.1.1`
+- Go version: `1.21.0`
 - OpenSSL version: `3.1.2`
 
 ## Tool List
 
+- `amass`
+  - Source: https://github.com/owasp-amass/amass
+  - Version: tag `v4.1.0`
+  - Commit: `a659a210da0da1ae96c7cab5c55ebbcc849cae11`
 - `b3sum`
   - Source: https://github.com/BLAKE3-team/BLAKE3
   - Version: tag `1.4.1`
