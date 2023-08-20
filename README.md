@@ -80,7 +80,7 @@ Various useful tools
 - `lsd`
   - Source: https://github.com/lsd-rs/lsd
   - Version: branch `master`
-  - Commit: `0e3f97b8171ed521d5f84bad773d9aa04ce06ad3`
+  - Commit: `58a8723cfa699d426bc3933c8aca91ad19ffee25`
 - `monolith`
   - Source: https://github.com/Y2Z/monolith
   - Version: tag `v2.7.0`
