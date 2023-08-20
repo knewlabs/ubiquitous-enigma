@@ -106,6 +106,10 @@ Various useful tools
   - Source: https://github.com/dalance/procs
   - Version: tag `v0.14.0`
   - Commit: `915d891c28904bee698b0fc7c1a750cac0bebb7b`
+- `rclone`
+  - Source: https://github.com/rclone/rclone
+  - Version: tag `v1.63.1`
+  - Commit: `bd1fbcae12f795f498c7ace6af9d9cc218102094`
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master`
