@@ -113,7 +113,7 @@ Various useful tools
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master`
-  - Commit: `a7f1276021df2217dead1481b2c2b38595ed8fb3`
+  - Commit: `1d35859861fa4710cee94cf0e0b2e114b152b946`
 - `rsign`
   - Source: https://github.com/jedisct1/rsign2
   - Version: branch `master`
