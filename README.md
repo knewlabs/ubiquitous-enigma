@@ -96,8 +96,8 @@ Various useful tools
   - Commit: `bdd07024661dfa503b248ae46c363783d12fbad1`
 - `nu`
   - Source: https://github.com/nushell/nushell
-  - Version: tag `0.84.0`
-  - Commit: `d2abb8603abab43ec4a6d4ed56f9018790b99dce`
+  - Version: tag `0.85.0`
+  - Commit: `a6f62e05ae5b4e9ba4027fbfffd21025a898783e`
 - `portal`
   - Source: https://github.com/landhb/portal
   - Version: branch `main`
