@@ -136,8 +136,8 @@ Various useful tools
   - Commit: `dcf7b7646c4610947765d76cf4e024a60576b2cd`
 - `topgrade`
   - Source: https://github.com/topgrade-rs/topgrade
-  - Version: tag `v12.0.0`
-  - Commit: `b974938a33ea9c214d06bfb4941c1daa79f9f3dc`
+  - Version: tag `v12.0.2`
+  - Commit: `8e580457a5d0f39612e4f73edb8c281c0625ab76`
 - `xh`
   - Source: https://github.com/ducaale/xh
   - Version: tag `v0.18.0`
