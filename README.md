@@ -6,11 +6,11 @@ Various useful tools
 
 - Statically linked using musl libc
 - Stripped
-- Rust version: `1.72.0` (stable)
+- Rust version: `1.72.1` (stable)
 - Clang version: `16.0.6`
 - GCC version: `13.1.1`
 - Go version: `1.21.0`
-- OpenSSL version: `3.1.2`
+- OpenSSL version: `3.1.3`
 
 ## Tool List
 
@@ -20,8 +20,8 @@ Various useful tools
   - Commit: `a659a210da0da1ae96c7cab5c55ebbcc849cae11`
 - `b3sum`
   - Source: https://github.com/BLAKE3-team/BLAKE3
-  - Version: tag `1.4.1`
-  - Commit: `760ed6a8bfef14cfff7432dd21235627d6e42c47`
+  - Version: tag `1.5.0`
+  - Commit: `5aa53f07f7188a569cadfc5daf1522972d9a9630`
 - `bat`
   - Source: https://github.com/sharkdp/bat
   - Version: tag `v0.23.0`
