@@ -108,8 +108,8 @@ Various useful tools
   - Commit: `915d891c28904bee698b0fc7c1a750cac0bebb7b`
 - `rclone`
   - Source: https://github.com/rclone/rclone
-  - Version: tag `v1.63.1`
-  - Commit: `bd1fbcae12f795f498c7ace6af9d9cc218102094`
+  - Version: tag `v1.64.0`
+  - Commit: `77f7bb08afff911b669a5285c4106932acbe9af9`
 - `rg`
   - Source: https://github.com/BurntSushi/ripgrep
   - Version: branch `master`
