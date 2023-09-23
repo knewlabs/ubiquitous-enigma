@@ -54,6 +54,10 @@ Various useful tools
   - Source: https://github.com/ogham/exa
   - Version: branch `master`
   - Commit: `c697d066702ab81ce0684fedb4c638e0fc0473e8`
+- `eza`
+  - Source: https://github.com/eza-community/eza
+  - Version: branch `v0.13.0`
+  - Commit: `7e60ba16b72a6e21a7a1a2bde41c575ae08c1cd7`
 - `horust`
   - Source: https://github.com/FedericoPonzi/horust
   - Version: tag `v0.1.7`
